@@ -1,0 +1,70 @@
+Lista 3.
+1. Analiza i uruchomienie przykładów regresji.
+2. Generowanie i przygotowanie danych mieszkaniowych do regresji.
+3. Regresja liniowa (scikit-learn) do przewidywania cen mieszkań z oceną i wizualizacją.
+4. Regresja wielomianowa dla zależności miesiąc–temperatura z oceną i wykresem.
+5. Regresja grzbietowa i Lasso (scikit-learn) dla danych o temperaturze i zużyciu energii, porównanie metod.
+6. Regresja SVR do przewidywania czasu przeżycia pacjentów, analiza parametrów i porównanie metod regresji.
+
+
+
+Lista 4.
+1. Analiza i uruchomienie przykładów interpolacji.
+2. Przygotowanie danych z obsługą braków i wybór metody interpolacji.
+3. Prognozowanie temperatury z interpolacją B-sklejaną na danych meteorologicznych.
+4. Interpolacja danych zużycia energii do prognozowania w różnych sektorach.
+5. Interpolacja kubiczna Hermite’a do analizy trendów cen akcji i identyfikacji punktów zwrotnych.
+6. Prognozowanie ruchu ulicznego na podstawie danych z czujników przy użyciu interpolacji i porównanie metod.
+
+
+Lista 5.
+1. Wczytanie i wstępna analiza szeregu czasowego (braki, statystyki, wizualizacja).
+2. Ekstrakcja cech z szeregu czasowego (statystyki, transformacje) i porównanie ich skuteczności.
+3. Implementacja niestandardowych metod ekstrakcji cech (np. FFT, autokorelacja) w NumPy i analiza ich wydajności.
+
+
+
+Lista 6.
+1. PCA na zbiorze Breast Cancer – redukcja wymiarowości i wizualizacja danych medycznych.
+2. t-SNE na zbiorze Digits – wizualizacja ręcznie pisanych cyfr w przestrzeni 2D.
+3. NMF na zbiorze LFW – redukcja cech i wizualizacja komponentów twarzy jako obrazów.
+4. SVD na zbiorze Wine – redukcja wymiarów i wizualizacja rozkładu odmian win.
+5. LDA na zbiorze 20 Newsgroups – przetwarzanie tekstu, redukcja wymiarowości i identyfikacja tematów.
+
+
+
+Lisat 7.
+1. Klasyfikacja gatunków irysów za pomocą KNN i analiza metryk jakości modelu.
+2. Regresja logistyczna na danych Breast Cancer do klasyfikacji nowotworów, ocena i interpretacja wyników.
+3. Klasyfikacja cyfr w zbiorze MNIST za pomocą SVM i analiza błędów klasyfikacji.
+4. Przewidywanie przeżycia pasażerów Titanica przy użyciu regresji logistycznej lub drzewa decyzyjnego.
+5. Klasyfikacja obecności choroby serca z użyciem SVM i identyfikacja czynników ryzyka.
+
+
+Lista 8.
+1. K-means do segmentacji klientów banku według zachowań finansowych.
+2. Mean Shift na danych Credit Card Default i porównanie z K-means.
+3. Klastrowanie aglomeracyjne na danych Iris i interpretacja struktury klastrów.
+4. GMM do grupowania danych Wine i analiza jakości klastrów.
+5. DBSCAN na danych Olivetti Faces – grupowanie twarzy i identyfikacja anomalii.
+6. Klastrowanie hierarchiczne danych Diabetes i analiza podgrup pacjentów.
+7. Porównanie metod klastrowania (K-means, Mean Shift, GMM, DBSCAN) na danych o chorobach serca z użyciem metryk jakości.
+
+
+Lisat 9.
+1. Wczytanie zbioru danych Fashion MNIST z biblioteki Keras.
+2. Normalizacja obrazów i zamiana etykiet na one-hot encoding.
+3. Zbudowanie konwolucyjnej sieci neuronowej w Keras.
+4. Trenowanie modelu z walidacją przez określoną liczbę epok.
+5. Ocena skuteczności modelu na zbiorze testowym oraz wizualizacja wyników.
+6. Predykcja nowych danych, analiza wyników za pomocą macierzy pomyłek i raportu klasyfikacji.
+7. Formułowanie wniosków i propozycji ulepszeń na podstawie wydajności modelu.
+
+
+Lista 10.
+1. Klasyfikacja binarna raka piersi przy użyciu prostej sieci neuronowej w Keras na zbiorze Breast Cancer.
+2. Klasyfikacja wieloklasowa irysów przy użyciu sieci neuronowej na zbiorze Iris.
+3. Transfer learning z użyciem modelu VGG16 do klasyfikacji twarzy na bazie VGGFace.
+4. Klasyfikacja obiektów w zdjęciach z użyciem głębokiej sieci na zbiorze COCO.
+5. Segmentacja obrazów drogowych z wykorzystaniem sieci neuronowej na danych CamVid.
+
